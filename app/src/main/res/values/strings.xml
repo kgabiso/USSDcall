@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USSDcall</string>
+    <string name="app_service">Listener</string>
+</resources>
